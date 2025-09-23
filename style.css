@@ -24,9 +24,9 @@ h1, h2, h3 {
 
 h1 { font-size: 3rem; }
 h2 { font-size: 2.25rem; border-bottom: 2px solid #4fd1c5; display: inline-block; padding-bottom: 0.5rem; }
-h3 { font-size: 1.5rem; color: #4fd1c5; }
+h3 { font-size: 1.5rem; color: #d14fc0; }
 p { margin-bottom: 1rem; }
-a { color: #4fd1c5; text-decoration: none; }
+a { color: #d14fc0; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 /* --- 導覽列 --- */
@@ -95,7 +95,7 @@ main {
 }
 
 .project-card {
-    background-color: #2d3748;
+    background-color: #7dd14f;
     padding: 2rem;
     border-radius: 8px;
     flex: 1;
