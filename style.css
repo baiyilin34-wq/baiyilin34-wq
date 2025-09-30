@@ -99,7 +99,7 @@ main {
     padding: 2rem;
     border-radius: 20px;
     flex: 1;
-    min-width: 280px;
+    min-width: 2800px;
     max-width: 200px;
     text-align: left;
     transition: transform 0.01s, box-shadow 1s;
@@ -107,7 +107,7 @@ main {
 
 .project-card:hover {
     transform: translateY(100px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 100px 20px rgba(0, 0, 0, 0.2);
 }
 
 /* --- 聯絡按鈕 --- */
