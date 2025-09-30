@@ -99,7 +99,7 @@ main {
     padding: 2rem;
     border-radius: 20px;
     flex: 1;
-    min-width: 2800px;
+    min-width: 280px;
     max-width: 200px;
     text-align: left;
     transition: transform 0.01s, box-shadow 1s;
